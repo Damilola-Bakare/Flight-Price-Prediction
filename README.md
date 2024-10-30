@@ -51,7 +51,17 @@ An interactive dashboard has been created using Microsoft Excel to showcase the 
 This project demonstrates the power of data analysis in uncovering trends and insights from flight booking data. The findings can help passengers make informed decisions and optimize their travel plans.
 
 ## Repository Structure
-├── data │ └── flight_booking_dataset.csv ├── analysis │ ├── pivot_tables.xlsx │ ├── charts.xlsx │ ├── statistical_tests.xlsx │ └── dashboard.xlsx ├── README.md └── LICENSE
+.
+├── data
+│   └── flight_booking_dataset.csv
+├── analysis
+│   ├── pivot_tables.xlsx
+│   ├── charts.xlsx
+│   ├── statistical_tests.xlsx
+│   └── dashboard.xlsx
+├── README.md
+└── LICENSE
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
