@@ -51,7 +51,7 @@ An interactive dashboard has been created using Microsoft Excel to showcase the 
 This project demonstrates the power of data analysis in uncovering trends and insights from flight booking data. The findings can help passengers make informed decisions and optimize their travel plans.
 
 ## Repository Structure
-.
+
 ├── data
 │   └── flight_booking_dataset.csv
 ├── analysis
