@@ -1,5 +1,7 @@
 # Flight Booking Dataset Analysis
 
+![download j](https://github.com/user-attachments/assets/d86d0b35-2239-4079-ba9f-001d63c2452b)
+
 ## Introduction
 This project involves analyzing a flight booking dataset obtained from the "Ease My Trip" website. Various statistical hypothesis tests and visualizations have been conducted using Microsoft Excel to extract meaningful insights. The objective is to understand the factors that influence ticket prices and provide actionable recommendations.
 
