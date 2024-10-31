@@ -177,3 +177,5 @@ All analyses were conducted using Microsoft Excel with the following steps:
    - Click `OK` to get the results.
 
 These steps will help replicate the analysis and verify the findings.
+
+I am open to opportunities to collaborate on projects related to data analysis, staistical analysis and visualization. You can rea me via [bakaredhofficial@gmail.com] or connect with me on facebook [https://www.facebook.com/profile.php?id=61565640177908] or connect with me on LinkedIn at [https://www.linkedin.com/in/damilola-bakare-sanusi-183090194/]. 
